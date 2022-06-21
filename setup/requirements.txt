@@ -18,7 +18,7 @@ ipywidgets
 # AIDO Submission Infrastructure
 
 opencv-python==4.0.0.21
-numpy==1.16.2
+numpy==1.22.0
 
 zuper-utils==3.0.3
 zuper-nodes==2.0.3
